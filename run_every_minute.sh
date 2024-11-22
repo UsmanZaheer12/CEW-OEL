@@ -4,9 +4,9 @@
 count=0
 
 # Run the loop 5 times
-while [ $count -lt 22 ]; do
-    # Run your file (replace ./file2 with the correct file or command)
+while true; do
     ./fetch_weather.sh
+    #sleep 60  #runs the code every 1 minute
 
     # Increment the count
     count=$((count + 1))
