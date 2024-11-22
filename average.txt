@@ -1,0 +1,4 @@
+Average Temperature: 78.1
+Average Humidity: 63.8
+Average Pressure: 1013.6
+Average Wind Speed: 13.9
